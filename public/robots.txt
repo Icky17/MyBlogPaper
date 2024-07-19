@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jairomorales.is-a.dev/MyBlogPaper/sitemap.xml

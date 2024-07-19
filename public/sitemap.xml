@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jairomorales.is-a.dev/MyBlogPaper/</loc>
+    <lastmod>2024-07-19T21:04:51+02:00</lastmod>
+  </url><url>
+    <loc>https://jairomorales.is-a.dev/MyBlogPaper/posts/</loc>
+    <lastmod>2024-07-19T21:04:51+02:00</lastmod>
+  </url><url>
+    <loc>https://jairomorales.is-a.dev/MyBlogPaper/categories/</loc>
+  </url><url>
+    <loc>https://jairomorales.is-a.dev/MyBlogPaper/tags/</loc>
+  </url>
+</urlset>
