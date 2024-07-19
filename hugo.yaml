@@ -1,6 +1,6 @@
 baseURL: https://jairomorales.is-a.dev/MyBlogPaper
 languageCode: en-us
-title: Hacking Blog - Jairo Morales Pérez
+title: TechVista Blog - Jairo Morales Pérez
 paginate: 5
 
 theme: ["PaperMod"]
@@ -71,10 +71,10 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
+  # home-info mode - Home Page Info
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to TechVista! 💻"
+    Content: Hi there! 👋 I'm Jairo, and this is TechVista, your go-to blog for all things tech. Here, you'll find articles on cybersecurity, cloud, home lab setups, and tech tips. Whether you're exploring the latest in cybersecurity or setting up your own home lab, TechVista has got you covered. Stay tuned and stay tech-savvy!
 
   socialIcons:
     - name: x
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Icky17/MyBlogPaper/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
