@@ -11,7 +11,11 @@
     <loc>http://localhost:1313/MyBlogPaper/</loc>
     <lastmod>2024-07-19T21:04:51+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/MyBlogPaper/archives/</loc>
+  </url><url>
     <loc>http://localhost:1313/MyBlogPaper/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyBlogPaper/search/</loc>
   </url><url>
     <loc>http://localhost:1313/MyBlogPaper/tags/</loc>
   </url>
